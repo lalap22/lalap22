@@ -1,6 +1,9 @@
-## Laura Angeli 
+# Laura Angeli 
+###e-mail: 2024309843@aluno.osorio.ifrs.edu.br
 
-<!--
+
+
+<!-- COMENTÁRIO
 
 - 🔭 I’m currently working on ...
 
@@ -12,8 +15,7 @@
 
 - 💬 Ask me about ...
 
-- 📫 How to reach me ... e-mail: 2024309843@aluno.osorio.ifrs.edu.br
-
+- 📫 How to reach me ... 
 - 😄 Pronouns: ...
 
 - ⚡ Fun fact: ...
