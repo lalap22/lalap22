@@ -1,6 +1,6 @@
-# Laura Angeli 
-### e-mail: 2024309843@aluno.osorio.ifrs.edu.br
-
+# Laura Angeli - ...
+##### e-mail: 2024309843@aluno.osorio.ifrs.edu.br
+ 
 
 
 <!-- COMENTÁRIO
